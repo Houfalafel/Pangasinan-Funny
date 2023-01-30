@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <text>
 <meta>
 <title>Hari sa Bukid</title>
 <link>http://phspirits.com/hari-sa-bukid-pangasinan-translation/</link>
-<ortho type="modern" clitic="separate" apos="none">
-    <letter 
-pepet="ë"
-/>
+<ortho
+      type="modern"
+      clitic="separate"
+      apos="none"
+    >
+    <letter pepet="ë" />
     <aff type="assimilated">
-        <af1 type="normal" form="un-" /> <!--uses inm-->
+        <af1
+          type="normal"
+          form="un-"
+        /> <!--uses inm-->
         <af2 type="hyphen" /> <!--uses hyphen after g-->
     </aff>
 </ortho>
