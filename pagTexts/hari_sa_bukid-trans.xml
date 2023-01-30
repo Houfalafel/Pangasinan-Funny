@@ -3,10 +3,13 @@
 <meta>
 <title>Hari sa Bukid</title>
 <link>http://phspirits.com/hari-sa-bukid-pangasinan-translation/</link>
-<ortho type="modern" pepet="ë" clitic="separate" apos="none"> 
+<ortho type="modern" clitic="separate" apos="none">
+    <letter 
+pepet="ë"
+/>
     <aff type="assimilated">
-        <af1 type="normal">un</af1> <!--uses inm-->
-        <af2 type="hyphen">man</af2> <!--uses hyphen after g-->
+        <af1 type="normal" form="un-" /> <!--uses inm-->
+        <af2 type="hyphen" /> <!--uses hyphen after g-->
     </aff>
 </ortho>
 </meta>
