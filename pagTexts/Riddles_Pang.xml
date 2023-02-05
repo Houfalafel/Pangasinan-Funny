@@ -1,14 +1,19 @@
-# Riddles collected and edited by Frederick Starr.
-# riddle 23: removed space in 'nan capa'
-# riddle 329: removed space in 'nan ta ne mac'
-# riddle 334: 'ogtoy' typo, removed space in 'na anap'
+<text>
+<meta>
+<title>A Little Book of Filipino Riddles</title>
+<link>https://www.gutenberg.org/files/14358/14358-h/14358-h.htm</link>
+<ortho type="spanish" clitic="attached" apos="none" />
+
+<!-- Riddles collected and edited by Frederick Starr. Theres a lot of spelling mistakes and strange stuff probably due to mishearing 
+-->
+</meta>
 
 5. Saquey so torutoro duaray quepay-quepay a patiray mansobsoblay.
 Dueg 
 17. Otin nen laquic Tapal ni baleuet ed corral manaquis, ya agnaecal.
 Campana
 23. Nancorona agmuet ari; nancapa agmuet pari.
-Manoc.
+Manoc. <!-- removed space in 'nan capa' -->
 25. Dinay penalsay Dios ya managtay carne?.
 Manoc
 30. Oalay asoc ya quisquis no onbatic tirakiang.
@@ -31,7 +36,7 @@ Agueo
 Agueo
 165. Dinan yan penalsay Dios ya say quenantoit maengal?
 Abong
-176. na labi mansacabac, na agueo manpilatan.
+176. na labi mansacabac, na agueo manpilatac.
 Ventana
 181. Tombong con tombong, manpilicay gustum.
 Agniob
@@ -45,9 +50,9 @@ Camantilis
 Colintas
 292. Nacno agapaldua.
 Simbaan
-329. Nantanemac na laver ed Dagupan angad diay lamoto.
+329. Nantanemac na laver ed Dagupan angad diay lamoto. <!-- removed space in 'nan ta ne mac' -->
 Calzada
-334. Diad ogtoy agueo oalay mapalit con anapuen no naanap co agueo alaen.
+334. Diad ogtoy agueo oalay mapalit con anapuen no naanap co agueo alaen. <!-- 'ogtoy' typo, removed space in 'na anap' -->
 Serom
 360. Enbontayog coy ecnol, quinmocaoc ya tampol.
 Bibintarol
@@ -63,3 +68,4 @@ Cete
 Palia
 406. Limocsoac alabasco agco asabi.
 Pacanengneng
+</text>
