@@ -1,3 +1,3 @@
 # Pangasinan-Funny
 
- Pangasinan texts
+ Pangasinan texts, some stuff here may be subject to copyright 😳
